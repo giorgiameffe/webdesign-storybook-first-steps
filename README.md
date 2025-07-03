@@ -20,19 +20,19 @@ npx storybook@latest init
 
 1. **Installa le dipendenze**:
 
-   ```
-   npm install
-   # oppure
-   yarn install
-   ```
+```
+npm install
+oppure
+yarn install
+```
 
 2. **Avvia Storybook**:
 
-   ```
-   npm run storybook
-   # oppure
-   yarn storybook
-   ```
+```
+npm run storybook
+oppure
+yarn storybook
+```
 ---
 
 📘 Documentazione
