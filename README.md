@@ -8,15 +8,17 @@ Serve come base per sviluppare e documentare componenti UI in isolamento.
 - 📚 [Storybook](https://storybook.js.org/)
 - ⚛️ [React](https://reactjs.org/)
 
+---
+
+## 📦 Installazione
+
+```
+npx storybook@latest init
+```
+
 ## 🚀 Come avviare Storybook
 
-1. **Clona la repository**:
-
-   ```
-   git clone https://github.com/tuo-utente/nome-repo.git
-   cd nome-repo
-   ```
-2. **Installa le dipendenze**:
+1. **Installa le dipendenze**:
 
    ```
    npm install
@@ -24,13 +26,14 @@ Serve come base per sviluppare e documentare componenti UI in isolamento.
    yarn install
    ```
 
-3. **Avvia Storybook**:
+2. **Avvia Storybook**:
 
    ```
    npm run storybook
    # oppure
    yarn storybook
    ```
+---
 
 📘 Documentazione
 
