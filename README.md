@@ -1,4 +1,4 @@
-# 📖 Storybook Setup (React)
+# 📖 Storybook Setup
 
 Questa repository contiene la configurazione iniziale di **Storybook** per un progetto **React**.  
 Serve come base per sviluppare e documentare componenti UI in isolamento.
