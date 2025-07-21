@@ -12,12 +12,6 @@ Serve come base per sviluppare e documentare componenti UI in isolamento.
 
 ## 📦 Installazione
 
-```
-npx storybook@latest init
-```
-
-## 🚀 Come avviare Storybook
-
 1. **Installa le dipendenze**:
 
 ```
@@ -25,8 +19,13 @@ npm install
 oppure
 yarn install
 ```
+2. **Installa Storybook**
 
-2. **Avvia Storybook**:
+```
+npm create storybook@latest
+```
+
+## 🚀 Come avviare Storybook
 
 ```
 npm run storybook
